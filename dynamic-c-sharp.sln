@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-c-sharp-dynamic-fundamentals-m01-exercise-files", "1-c-sharp-dynamic-fundamentals-m01-exercise-files", "{484FAD51-9D25-40EB-9775-161CEC363292}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicallyAddingBehaviour", "DynamicallyAddingBehaviour", "{020EFA8F-B169-4A6A-AB17-132CF314E316}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicAndObjectTypes", "DynamicAndObjectTypes", "{7B6176A0-537A-4E57-B2D5-869CE13B0DF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicBindingInAction", "DynamicBindingInAction", "{A886C481-4251-43DA-BB07-D1A5BBC7B4A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplicitDynamicConversions", "ImplicitDynamicConversions", "{A4DD9AEF-7087-4E17-AF8C-4E0B402B2804}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RefactoringToDynamic", "RefactoringToDynamic", "{5051FC76-DE98-4A4D-B619-2DF60ACA29B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RuntimeMethodResolution", "RuntimeMethodResolution", "{DB970CB1-E7A8-4D63-B6F7-9EBF288A4E77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "After", "After", "{854B7E78-EEAC-49E0-9D9D-789E96D1ECAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicallyAddingBehaviour", "DynamicallyAddingBehaviour", "{C3E3294A-1F48-4868-BB6D-BC66D92E1CE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicAndObjectTypes", "DynamicAndObjectTypes", "{60E021E3-BC57-4850-8B86-2307AC9B136E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicBindingInAction", "DynamicBindingInAction", "{B26701FF-E8D8-41ED-AFC5-C207B9C1AD22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplicitDynamicConversions", "ImplicitDynamicConversions", "{E4BA0295-0FE8-4BC5-AA4E-8568DB20B665}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RefactoringToDynamic", "RefactoringToDynamic", "{E2C9117F-0E03-45FD-9AD6-2760ECD57895}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RuntimeMethodResolution", "RuntimeMethodResolution", "{9447BF10-C783-4405-88DF-53A046B88EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "1-c-sharp-dynamic-fundamentals-m01-exercise-files\before\DynamicallyAddingBehaviour\ConsoleApplication\ConsoleApplication.csproj", "{0691EF41-A6C2-4541-94A1-66104D7DE356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "1-c-sharp-dynamic-fundamentals-m01-exercise-files\before\DynamicAndObjectTypes\ConsoleApplication\ConsoleApplication.csproj", "{7037E374-A8FE-4CA4-B6D0-55C2A4F2FCD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "1-c-sharp-dynamic-fundamentals-m01-exercise-files\after\DynamicBindingInAction\ConsoleApplication\ConsoleApplication.csproj", "{256FA3CF-55C6-4B3A-9CED-F0E11E304B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "1-c-sharp-dynamic-fundamentals-m01-exercise-files\after\ImplicitDynamicConversions\ConsoleApplication\ConsoleApplication.csproj", "{FB61B3ED-6B14-491C-92C5-90583B8ECE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "1-c-sharp-dynamic-fundamentals-m01-exercise-files\after\RefactoringToDynamic\ConsoleApplication\ConsoleApplication.csproj", "{B5F3CF63-EB18-4BD4-92B1-CD7DF167423D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "1-c-sharp-dynamic-fundamentals-m01-exercise-files\after\RuntimeMethodResolution\ConsoleApplication\ConsoleApplication.csproj", "{78EE6CCA-BC8E-4478-854B-7AAF333E24E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "1-c-sharp-dynamic-fundamentals-m01-exercise-files\after\DynamicallyAddingBehaviour\ConsoleApplication\ConsoleApplication.csproj", "{48DA611A-0F8B-42AE-901D-ECFFED50ED2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "1-c-sharp-dynamic-fundamentals-m01-exercise-files\after\DynamicAndObjectTypes\ConsoleApplication\ConsoleApplication.csproj", "{C75B9EA0-F934-4655-A4CC-709F15FFAF0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0691EF41-A6C2-4541-94A1-66104D7DE356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0691EF41-A6C2-4541-94A1-66104D7DE356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0691EF41-A6C2-4541-94A1-66104D7DE356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0691EF41-A6C2-4541-94A1-66104D7DE356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7037E374-A8FE-4CA4-B6D0-55C2A4F2FCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7037E374-A8FE-4CA4-B6D0-55C2A4F2FCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7037E374-A8FE-4CA4-B6D0-55C2A4F2FCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7037E374-A8FE-4CA4-B6D0-55C2A4F2FCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256FA3CF-55C6-4B3A-9CED-F0E11E304B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256FA3CF-55C6-4B3A-9CED-F0E11E304B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256FA3CF-55C6-4B3A-9CED-F0E11E304B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256FA3CF-55C6-4B3A-9CED-F0E11E304B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB61B3ED-6B14-491C-92C5-90583B8ECE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB61B3ED-6B14-491C-92C5-90583B8ECE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB61B3ED-6B14-491C-92C5-90583B8ECE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB61B3ED-6B14-491C-92C5-90583B8ECE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F3CF63-EB18-4BD4-92B1-CD7DF167423D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F3CF63-EB18-4BD4-92B1-CD7DF167423D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F3CF63-EB18-4BD4-92B1-CD7DF167423D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F3CF63-EB18-4BD4-92B1-CD7DF167423D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EE6CCA-BC8E-4478-854B-7AAF333E24E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EE6CCA-BC8E-4478-854B-7AAF333E24E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EE6CCA-BC8E-4478-854B-7AAF333E24E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EE6CCA-BC8E-4478-854B-7AAF333E24E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DA611A-0F8B-42AE-901D-ECFFED50ED2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DA611A-0F8B-42AE-901D-ECFFED50ED2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DA611A-0F8B-42AE-901D-ECFFED50ED2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DA611A-0F8B-42AE-901D-ECFFED50ED2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75B9EA0-F934-4655-A4CC-709F15FFAF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75B9EA0-F934-4655-A4CC-709F15FFAF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75B9EA0-F934-4655-A4CC-709F15FFAF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75B9EA0-F934-4655-A4CC-709F15FFAF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{020EFA8F-B169-4A6A-AB17-132CF314E316} = {484FAD51-9D25-40EB-9775-161CEC363292}
+		{7B6176A0-537A-4E57-B2D5-869CE13B0DF0} = {484FAD51-9D25-40EB-9775-161CEC363292}
+		{A886C481-4251-43DA-BB07-D1A5BBC7B4A3} = {484FAD51-9D25-40EB-9775-161CEC363292}
+		{A4DD9AEF-7087-4E17-AF8C-4E0B402B2804} = {484FAD51-9D25-40EB-9775-161CEC363292}
+		{5051FC76-DE98-4A4D-B619-2DF60ACA29B9} = {484FAD51-9D25-40EB-9775-161CEC363292}
+		{DB970CB1-E7A8-4D63-B6F7-9EBF288A4E77} = {484FAD51-9D25-40EB-9775-161CEC363292}
+		{854B7E78-EEAC-49E0-9D9D-789E96D1ECAB} = {484FAD51-9D25-40EB-9775-161CEC363292}
+		{C3E3294A-1F48-4868-BB6D-BC66D92E1CE6} = {854B7E78-EEAC-49E0-9D9D-789E96D1ECAB}
+		{60E021E3-BC57-4850-8B86-2307AC9B136E} = {854B7E78-EEAC-49E0-9D9D-789E96D1ECAB}
+		{B26701FF-E8D8-41ED-AFC5-C207B9C1AD22} = {854B7E78-EEAC-49E0-9D9D-789E96D1ECAB}
+		{E4BA0295-0FE8-4BC5-AA4E-8568DB20B665} = {854B7E78-EEAC-49E0-9D9D-789E96D1ECAB}
+		{E2C9117F-0E03-45FD-9AD6-2760ECD57895} = {854B7E78-EEAC-49E0-9D9D-789E96D1ECAB}
+		{9447BF10-C783-4405-88DF-53A046B88EDD} = {854B7E78-EEAC-49E0-9D9D-789E96D1ECAB}
+		{0691EF41-A6C2-4541-94A1-66104D7DE356} = {020EFA8F-B169-4A6A-AB17-132CF314E316}
+		{7037E374-A8FE-4CA4-B6D0-55C2A4F2FCD4} = {7B6176A0-537A-4E57-B2D5-869CE13B0DF0}
+		{256FA3CF-55C6-4B3A-9CED-F0E11E304B33} = {A886C481-4251-43DA-BB07-D1A5BBC7B4A3}
+		{FB61B3ED-6B14-491C-92C5-90583B8ECE36} = {A4DD9AEF-7087-4E17-AF8C-4E0B402B2804}
+		{B5F3CF63-EB18-4BD4-92B1-CD7DF167423D} = {5051FC76-DE98-4A4D-B619-2DF60ACA29B9}
+		{78EE6CCA-BC8E-4478-854B-7AAF333E24E5} = {DB970CB1-E7A8-4D63-B6F7-9EBF288A4E77}
+		{48DA611A-0F8B-42AE-901D-ECFFED50ED2E} = {C3E3294A-1F48-4868-BB6D-BC66D92E1CE6}
+		{C75B9EA0-F934-4655-A4CC-709F15FFAF0D} = {60E021E3-BC57-4850-8B86-2307AC9B136E}
+	EndGlobalSection
+EndGlobal
